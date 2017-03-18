@@ -21,7 +21,7 @@
                     </div>
                     <div class="form-group">
                         <label for="distance">Distance (yl):</label>
-                        <input type="number" class="form-control" id="distance" name="distance" min="0" step="0.01">
+                        <input type="number" class="form-control" id="distance" name="distance" min="0" step="0.01" required>
                     </div>
                     <button type="submit" class="btn btn-default">Submit</button>
                 </form>
